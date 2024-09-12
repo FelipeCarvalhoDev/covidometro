@@ -1,10 +1,21 @@
 # Covidômetro (Nuxt3)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Projeto de Covidômetro consumindo a [API Covid 19](https://covid-api.com/api/) e usando Nuxt3
 
-## Setup
 
-Make sure to install the dependencies:
+## Baixar projeto
+
+Clone o projeto para seu ambiente local:
+
+```bash
+# git
+git clone https://github.com/FelipeCarvalhoDev/covidometro.git
+
+```
+
+## Instalar projeto
+
+Instale as dependências:
 
 ```bash
 # npm
@@ -12,14 +23,12 @@ npm install
 
 ```
 
-## Development Server
+## Rodar projeto local
 
-Start the development server on `http://localhost:3000`:
+Inicie o servidor de desenvolvimento em `http://localhost:3000`:
 
 ```bash
 # npm
 npm run dev
 
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
